@@ -1,0 +1,2 @@
+* Perceptron in golang
+Based on: https://github.com/tsoding/perceptron
